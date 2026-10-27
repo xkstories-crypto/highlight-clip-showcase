@@ -1,0 +1,16 @@
+numpy
+opencv-python
+Pillow
+janome
+pykakasi
+pytest
+xgboost
+scipy
+praat-parselmouth
+# 文章モデル・音の照合を使うときだけ
+# torch
+# transformers
+# 笑い検出を使うときだけ
+# librosa
+# torch
+# panns_inference
